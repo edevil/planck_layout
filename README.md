@@ -14,4 +14,4 @@ Layout for my Planck Ez keyboard
 
 1. Compile
 
-        make zsa/planck_ez:edevil
+        make zsa/planck_ez/glow:edevil
